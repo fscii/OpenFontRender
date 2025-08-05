@@ -17,7 +17,6 @@
   "platforms": ["atmelavr", "atmelmegaavr", "espressif32", "samd", "stm32"],
   "license": "FTL",
   "dependencies": {
-    "TFT_eSPI": "*",
-    "M5Unified": "*"
+    "TFT_eSPI": "*"
   }
 }
